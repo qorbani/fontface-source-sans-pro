@@ -8,3 +8,11 @@
 * Release: [2.010R-ro/1.065R-it] Release version 2.010 (Roman) and 1.065 (Italic)
 * Date: Tue, 8 Jul 2014
 * Preview: [Typecast](http://typecast.com/preview/google/Source%20Sans%20Pro)
+
+# Update Fonts
+
+To update fonts to latest release, use following steps:
+
+```bash
+./bin/update-fonts.sh
+```
