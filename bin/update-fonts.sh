@@ -37,3 +37,7 @@ echo "    - Date: $TAG_DATE"
 sed -i.tmp "s|^\* Release: .*|\* Release: [$TAG_VER] $TAG_DESC|g" ../README.md 
 sed -i.tmp "s|^\* Date: .*|\* Date: $TAG_DATE|g" ../README.md 
 rm ../README.md.tmp
+
+# Update bower.json
+sed -i.tmp "s|\"version\": \".*\"|\"version\": \"$TAG_VER\"|g" ../bower.json
+rm ../bower.json.tmp
