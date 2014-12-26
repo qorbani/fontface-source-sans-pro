@@ -9,10 +9,16 @@
 * Date: Tue, 8 Jul 2014
 * Preview: [Typecast](http://typecast.com/preview/google/Source%20Sans%20Pro)
 
-# Update Fonts
+## Update Fonts
 
-To update fonts to latest release, use following steps:
+To update fonts to latest release from Adobe's repository, use following steps:
 
 ```bash
 ./bin/update-fonts.sh
 ```
+
+## Author
+
+* Email: reza@qorbani.com
+* Twitter: https://twitter.com/qorbani
+* GitHub: https://github.com/qorbani
