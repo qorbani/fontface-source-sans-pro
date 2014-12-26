@@ -1,0 +1,32 @@
+#
+#  Mac OSX Files
+#
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+#
+#  Windows Files
+#
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+
+#
+#  IDE/Editors
+#
+.idea/
+
+#
+#  Node.JS
+#
+node_modules/
+
+#
+#  Project Specific
+#
+*.tmp
+
+
