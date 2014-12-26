@@ -9,6 +9,14 @@
 * Date: Tue, 8 Jul 2014
 * Preview: [Typecast](http://typecast.com/preview/google/Source%20Sans%20Pro)
 
+## Usage
+
+You can access to this font package using [Bower.io](http://bower.io/) and search for [fontface-source-sans-pro](http://bower.io/search/?q=fontface-source-sans-pro):
+
+```bash
+bower install --save fontface-source-sans-pro
+```
+
 ## Update Fonts
 
 To update fonts to latest release from Adobe's repository, use following steps:
@@ -25,6 +33,5 @@ To update fonts to latest release from Adobe's repository, use following steps:
 
 ## License
 
-Source Sans Pro is licensed under the [SIL Open Font License, Version 1.1](https://github.com/adobe-fonts/source-sans-pro/blob/master/LICENSE.txt).
-
-The source code in this project is distributed under the [MIT License](http://qorbani.mit-license.org/) &copy; Reza Qorbani
+* Source Sans Pro is licensed under the [SIL Open Font License, Version 1.1](https://github.com/adobe-fonts/source-sans-pro/blob/master/LICENSE.txt).
+* The source code in this project is distributed under the [MIT License](http://qorbani.mit-license.org/) &copy; Reza Qorbani
