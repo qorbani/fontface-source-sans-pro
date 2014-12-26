@@ -22,3 +22,9 @@ To update fonts to latest release from Adobe's repository, use following steps:
 * Email: reza@qorbani.com
 * Twitter: https://twitter.com/qorbani
 * GitHub: https://github.com/qorbani
+
+## License
+
+Source Sans Pro is licensed under the [SIL Open Font License, Version 1.1](https://github.com/adobe-fonts/source-sans-pro/blob/master/LICENSE.txt).
+
+The source code in this project is distributed under the [MIT License](http://qorbani.mit-license.org/) &copy; Reza Qorbani
