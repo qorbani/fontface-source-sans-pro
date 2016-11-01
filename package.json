@@ -1,0 +1,26 @@
+{
+  "name": "fontface-source-sans-pro",
+  "version": "2.0.10-alpha1",
+  "description": "Source Sans Pro font family by Adobe, with SCSS/SASS usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/components/fontface-source-sans-pro.git"
+  },
+  "keywords": [
+    "fontface",
+    "font",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "author": "Reza Qorbani <reza@qorbani.com>",
+  "license": "(MIT OR OFL-1.1)",
+  "bugs": {
+    "url": "https://github.com/components/fontface-source-sans-pro/issues"
+  },
+  "homepage": "https://github.com/components/fontface-source-sans-pro#readme"
+}
